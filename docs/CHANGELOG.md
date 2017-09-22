@@ -1,6 +1,12 @@
-# Version 0.4.4
+# Version 0.4.5
 
 [Documentation](README.md)
+
+## Changelog since 0.4.4
+
+### Configuration
+
+- Added k8s-community infrastructure configuration
 
 ## Changelog since 0.4.3
 
