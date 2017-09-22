@@ -2,13 +2,13 @@
 # Use of this source code is governed by a MIT-style
 # license that can be found in the LICENSE file.
 
-APP=k8sapp
+APP?=k8sapp
 PROJECT=github.com/k8s-community/${APP}
 REGISTRY?=registry.k8s.community
 CA_DIR?=certs
 
 # Use the 0.0.0 tag for testing, it shouldn't clobber any release builds
-RELEASE?=0.4.5
+RELEASE?=0.4.6
 GOOS?=linux
 GOARCH?=amd64
 
