@@ -1,6 +1,12 @@
-# Version 0.4.5
+# Version 0.4.6
 
 [Documentation](README.md)
+
+## Changelog since 0.4.5
+
+### Codebase
+
+- Added ability to set app name in make commands [#5](https://github.com/k8s-community/k8sapp/pull/5), [@rumyantseva](https://github.com/rumyantseva))
 
 ## Changelog since 0.4.4
 
