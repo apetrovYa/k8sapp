@@ -36,11 +36,11 @@ image:
   ##
   registry: registry.k8s.community
   name: k8sapp
-  tag: 0.4.4
+  tag: 0.4.5
 
   ## Docker Registry/Hub auth secret name, always use `registry-pull-secret` if registry inside if k8s
   ##
-  # pullSecretName: registry-pull-secret
+  pullSecretName: registry-pull-secret
 
   ## Docker Registry/Hub image pull policy
   ##
