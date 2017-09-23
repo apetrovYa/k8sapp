@@ -1,6 +1,12 @@
-# Version 0.4.6
+# Version 0.4.7
 
 [Documentation](README.md)
+
+## Changelog since 0.4.6
+
+### Codebase
+
+- Added default context encoding
 
 ## Changelog since 0.4.5
 
